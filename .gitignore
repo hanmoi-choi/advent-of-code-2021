@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 *.class
 *.log
+||||||| (empty tree)
+=======
+/.bsp/
+target/
+>>>>>>> 6bce004 (init)
